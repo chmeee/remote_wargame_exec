@@ -1,0 +1,5 @@
+Simple script to automate the execution of exploits and the recovery of the password on wargames.
+
+It is usual that wargames reset passwords and it is annoying to launch again all the commands for all previous levels.
+
+At the moment only narnia.intruded.net wargame is (almost) solved.
